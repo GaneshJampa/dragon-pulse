@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FBF3E2"/>
+  <!-- Bench -->
+  <rect x="40" y="220" width="220" height="18" rx="4" fill="#C9B37E" opacity="0.7"/>
+  <rect x="55" y="238" width="12" height="60" rx="3" fill="#8B7355" opacity="0.6"/>
+  <rect x="233" y="238" width="12" height="60" rx="3" fill="#8B7355" opacity="0.6"/>
+  <line x1="0" y1="348" x2="300" y2="348" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- Figure: bar lowered to chest -->
+  <circle cx="228" cy="208" r="18" fill="#2A1810"/>
+  <ellipse cx="236" cy="196" rx="18" ry="10" fill="#111"/>
+  <!-- Torso -->
+  <rect x="90" y="196" width="130" height="30" rx="8" fill="#2A1810"/>
+  <!-- Shorts -->
+  <rect x="62" y="197" width="50" height="28" rx="6" fill="#C9B37E"/>
+  <rect x="18" y="196" width="46" height="20" rx="5" fill="#2A1810"/>
+
+  <!-- Arms bent, elbows down — bar at chest -->
+  <!-- Left arm with elbow out and down -->
+  <path d="M 118 200 L 92 210 L 112 198" stroke="#2A1810" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M 175 200 L 205 210 L 183 198" stroke="#2A1810" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Barbell on chest -->
+  <line x1="68" y1="196" x2="232" y2="196" stroke="#555" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="75" cy="196" r="14" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="75" cy="196" r="7" fill="#666"/>
+  <circle cx="225" cy="196" r="14" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="225" cy="196" r="7" fill="#666"/>
+
+  <!-- Down arrow -->
+  <path d="M 150 130 L 150 180" stroke="#C9B37E" stroke-width="2" stroke-dasharray="4 3" opacity="0.7"/>
+  <polygon points="145,178 155,178 150,190" fill="#C9B37E" opacity="0.7"/>
+
+  <text x="150" y="378" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8B7355" letter-spacing="1">STEP 2 — BAR TO CHEST</text>
+</svg>

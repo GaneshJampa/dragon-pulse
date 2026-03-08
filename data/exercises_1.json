@@ -1,0 +1,114 @@
+[
+  {
+    "exercise_id": "clean_press",
+    "name": "Clean and Press",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Moderate",
+    "rest_seconds": 45,
+    "description": "A full-body compound movement. Pull the barbell from the floor to shoulders in one explosive drive, then press overhead. Builds total-body coordination and strength.",
+    "steps": [
+      "Stand with feet shoulder-width apart. Grip the barbell just outside your legs. Hinge at the hips, back flat, chest up.",
+      "Drive through your legs and hips explosively. Pull the bar to shoulder height and rotate your elbows forward into the front rack position.",
+      "Press the bar directly overhead until your arms fully lock out. Lower with control back to the front rack, then to the floor."
+    ]
+  },
+  {
+    "exercise_id": "squat",
+    "name": "Barbell Squat",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Moderate",
+    "rest_seconds": 45,
+    "description": "The foundational lower-body exercise. The barbell rests across your upper back as you descend under control into a full squat. Builds leg and core strength.",
+    "steps": [
+      "Position the bar across your upper back (not your neck). Grip the bar firmly, feet shoulder-width apart, toes slightly out.",
+      "Descend by simultaneously bending your knees and hips. Keep your chest tall and your knees tracking over your toes.",
+      "Lower until your thighs are at least parallel to the floor. Drive through your heels to return to the starting position."
+    ]
+  },
+  {
+    "exercise_id": "pullover",
+    "name": "Pullover",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Light",
+    "rest_seconds": 45,
+    "description": "A classic chest and back exercise performed lying on a bench. Opens the rib cage through a long arc of motion. Keep a slight bend in your elbows throughout.",
+    "steps": [
+      "Lie flat on a bench, feet on the floor. Hold the barbell with both hands at arm's length directly above your chest.",
+      "Keeping your arms slightly bent, slowly lower the bar back over your head in a controlled sweeping arc.",
+      "Lower until you feel a full stretch in your chest and lats. Reverse the arc and return the bar to the starting position above your chest."
+    ]
+  },
+  {
+    "exercise_id": "bench_press",
+    "name": "Bench Press",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Moderate",
+    "rest_seconds": 45,
+    "description": "The classic chest pressing movement. Lie flat and press the barbell from your lower chest to full arm extension. Focus on control both up and down.",
+    "steps": [
+      "Lie flat on the bench with your feet planted on the floor. Grip the bar slightly wider than shoulder-width with a firm overhand grip.",
+      "Unrack the bar and lower it under control until it touches your lower chest. Keep your elbows at roughly 45° from your body.",
+      "Press the bar explosively back to full arm extension. Do not lock out aggressively. Lower with control and repeat."
+    ]
+  },
+  {
+    "exercise_id": "good_morning",
+    "name": "Good Morning",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Light",
+    "rest_seconds": 45,
+    "description": "A hip hinge exercise with the bar on your upper back. Strengthens the posterior chain — hamstrings, glutes, and lower back. Use light weight and perfect form.",
+    "steps": [
+      "Stand upright with the bar resting on your upper back. Feet shoulder-width apart. Soft bend in your knees. Brace your core.",
+      "Keeping your back perfectly flat, push your hips back and bend forward at the hips. Allow only a slight additional bend in the knees.",
+      "Lower your torso until it is roughly parallel to the floor — or as far as your hamstring flexibility allows. Drive your hips forward to return to standing."
+    ]
+  },
+  {
+    "exercise_id": "barbell_curl",
+    "name": "Barbell Curl",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Moderate",
+    "rest_seconds": 45,
+    "description": "The standard bicep curl with a straight barbell. Keep your elbows pinned at your sides throughout the entire movement. No swinging.",
+    "steps": [
+      "Stand upright holding the barbell with an underhand (supinated) grip, hands shoulder-width apart. Arms fully extended.",
+      "Keeping your upper arms stationary at your sides, curl the bar upward by contracting your biceps.",
+      "Curl until the bar reaches shoulder height and your biceps are fully contracted. Squeeze at the top, then lower slowly back to full extension."
+    ]
+  },
+  {
+    "exercise_id": "wrist_curl",
+    "name": "Wrist Curl",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Light",
+    "rest_seconds": 45,
+    "description": "A forearm isolation exercise performed seated. Builds grip strength and forearm size. Bruce Lee placed exceptional emphasis on forearm development.",
+    "steps": [
+      "Sit on a bench with your forearms resting on your thighs, wrists hanging just beyond your knees. Hold the bar with a palms-up (supinated) grip.",
+      "Allow your wrists to extend and lower toward the floor as far as comfortable. The bar may roll down to your fingertips slightly.",
+      "Curl your wrists upward as far as possible, squeezing your forearms hard at the top. Lower slowly and repeat."
+    ]
+  },
+  {
+    "exercise_id": "reverse_curl",
+    "name": "Reverse Curl",
+    "sets": 2,
+    "reps": "8",
+    "recommended_weight": "Light",
+    "rest_seconds": 45,
+    "description": "The barbell curl with an overhand grip. Targets the brachialis and forearm extensors — muscles often neglected with standard curls.",
+    "steps": [
+      "Stand upright holding the barbell with an overhand (pronated) grip, hands shoulder-width apart. Arms fully extended.",
+      "Keeping your elbows at your sides, curl the bar upward. The overhand grip makes this significantly harder than a standard curl.",
+      "Curl until your forearms are roughly parallel to the floor or slightly higher. Lower under control back to full extension."
+    ]
+  }
+]

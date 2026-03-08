@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FBF3E2"/>
+  <line x1="0" y1="348" x2="300" y2="348" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- Figure: torso bent forward ~45°, hinging at hips -->
+  <!-- Head tilted forward -->
+  <circle cx="200" cy="125" r="20" fill="#2A1810"/>
+  <ellipse cx="206" cy="110" rx="20" ry="13" fill="#111"/>
+  <!-- Torso diagonal (bent forward at ~45°) -->
+  <path d="M 186 142 L 140 200" stroke="#2A1810" stroke-width="32" stroke-linecap="round"/>
+  <!-- Arms hanging down from torso -->
+  <path d="M 165 168 L 148 228" stroke="#2A1810" stroke-width="15" stroke-linecap="round"/>
+  <path d="M 175 175 L 162 232" stroke="#2A1810" stroke-width="15" stroke-linecap="round"/>
+  <!-- Shorts at hip hinge point -->
+  <ellipse cx="140" cy="200" rx="22" ry="12" fill="#C9B37E"/>
+  <!-- Legs straight down -->
+  <rect x="127" y="210" width="20" height="90" rx="5" fill="#2A1810"/>
+  <rect x="151" y="210" width="20" height="90" rx="5" fill="#2A1810"/>
+  <!-- Calves -->
+  <rect x="128" y="298" width="18" height="50" rx="5" fill="#2A1810"/>
+  <rect x="153" y="298" width="18" height="50" rx="5" fill="#2A1810"/>
+
+  <!-- Barbell on back (diagonal) -->
+  <line x1="100" y1="140" x2="250" y2="112" stroke="#555" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="107" cy="138" r="12" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="107" cy="138" r="6" fill="#666"/>
+  <circle cx="243" cy="113" r="12" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="243" cy="113" r="6" fill="#666"/>
+
+  <!-- Bend arc guide -->
+  <path d="M 150 150 Q 165 170 152 195" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="4 3" fill="none" opacity="0.5"/>
+
+  <text x="150" y="378" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8B7355" letter-spacing="1">STEP 2 — HIP HINGE</text>
+</svg>

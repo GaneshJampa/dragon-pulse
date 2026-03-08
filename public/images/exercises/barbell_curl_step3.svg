@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FBF3E2"/>
+  <line x1="0" y1="348" x2="300" y2="348" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- Standing, arms fully curled (bar near chin) -->
+  <circle cx="150" cy="72" r="20" fill="#2A1810"/>
+  <ellipse cx="150" cy="57" rx="20" ry="13" fill="#111"/>
+  <rect x="143" y="90" width="14" height="16" rx="4" fill="#2A1810"/>
+  <rect x="130" y="104" width="40" height="74" rx="6" fill="#2A1810"/>
+  <rect x="128" y="175" width="44" height="42" rx="6" fill="#C9B37E"/>
+  <rect x="128" y="214" width="20" height="88" rx="5" fill="#2A1810"/>
+  <rect x="152" y="214" width="20" height="88" rx="5" fill="#2A1810"/>
+  <rect x="129" y="300" width="17" height="48" rx="5" fill="#2A1810"/>
+  <rect x="153" y="300" width="17" height="48" rx="5" fill="#2A1810"/>
+
+  <!-- Upper arms still at sides -->
+  <rect x="108" y="104" width="22" height="68" rx="7" fill="#2A1810"/>
+  <rect x="170" y="104" width="22" height="68" rx="7" fill="#2A1810"/>
+  <!-- Forearms angled upward (near fully curled) -->
+  <path d="M 119 172 L 108 118" stroke="#2A1810" stroke-width="20" stroke-linecap="round"/>
+  <path d="M 181 172 L 192 118" stroke="#2A1810" stroke-width="20" stroke-linecap="round"/>
+
+  <!-- Barbell near top of motion (near chin/shoulder height) -->
+  <line x1="65" y1="115" x2="235" y2="115" stroke="#555" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="72" cy="115" r="14" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="72" cy="115" r="7" fill="#666"/>
+  <circle cx="228" cy="115" r="14" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="228" cy="115" r="7" fill="#666"/>
+
+  <!-- Squeeze indicator -->
+  <text x="150" y="105" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#C9B37E" opacity="0.8">squeeze</text>
+
+  <text x="150" y="378" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8B7355" letter-spacing="1">STEP 3 — PEAK CONTRACTION</text>
+</svg>

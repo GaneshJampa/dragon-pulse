@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FBF3E2"/>
+  <rect x="55" y="268" width="190" height="16" rx="4" fill="#C9B37E" opacity="0.7"/>
+  <rect x="70" y="284" width="12" height="50" rx="3" fill="#8B7355" opacity="0.5"/>
+  <rect x="218" y="284" width="12" height="50" rx="3" fill="#8B7355" opacity="0.5"/>
+  <line x1="0" y1="348" x2="300" y2="348" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- Seated, wrists fully curled up -->
+  <circle cx="150" cy="120" r="20" fill="#2A1810"/>
+  <ellipse cx="150" cy="105" rx="20" ry="13" fill="#111"/>
+  <rect x="143" y="138" width="14" height="15" rx="4" fill="#2A1810"/>
+  <path d="M 132 152 L 168 152 L 164 268 L 136 268 Z" fill="#2A1810"/>
+  <path d="M 110 255 L 190 255 L 188 276 L 112 276 Z" fill="#C9B37E"/>
+  <rect x="110" y="244" width="70" height="22" rx="5" fill="#2A1810" transform="rotate(-3, 145, 255)"/>
+  <rect x="120" y="250" width="70" height="22" rx="5" fill="#2A1810" transform="rotate(3, 155, 261)"/>
+  <rect x="110" y="270" width="18" height="78" rx="5" fill="#2A1810"/>
+  <rect x="172" y="270" width="18" height="78" rx="5" fill="#2A1810"/>
+  <rect x="76" y="232" width="58" height="18" rx="6" fill="#2A1810" transform="rotate(-8, 105, 241)"/>
+  <rect x="166" y="232" width="58" height="18" rx="6" fill="#2A1810" transform="rotate(8, 195, 241)"/>
+
+  <!-- Wrists curled up (hands pointing upward) -->
+  <path d="M 60 248 L 56 222" stroke="#2A1810" stroke-width="14" stroke-linecap="round"/>
+  <path d="M 240 248 L 244 222" stroke="#2A1810" stroke-width="14" stroke-linecap="round"/>
+
+  <!-- Barbell held at top of curl -->
+  <line x1="40" y1="218" x2="260" y2="218" stroke="#555" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="47" cy="218" r="12" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="47" cy="218" r="6" fill="#666"/>
+  <circle cx="253" cy="218" r="12" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="253" cy="218" r="6" fill="#666"/>
+
+  <!-- Squeeze indicator -->
+  <text x="150" y="208" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#C9B37E" opacity="0.8">squeeze</text>
+
+  <!-- Up arrows on wrists -->
+  <polygon points="53,222 63,222 58,210" fill="#C9B37E" opacity="0.5"/>
+  <polygon points="240,222 250,222 245,210" fill="#C9B37E" opacity="0.5"/>
+
+  <text x="150" y="378" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8B7355" letter-spacing="1">STEP 3 — CURLED UP</text>
+</svg>

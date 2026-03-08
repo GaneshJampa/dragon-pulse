@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FBF3E2"/>
+  <line x1="0" y1="348" x2="300" y2="348" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- Figure: standing, arms fully extended overhead -->
+  <!-- Head -->
+  <circle cx="150" cy="118" r="20" fill="#2A1810"/>
+  <ellipse cx="150" cy="103" rx="20" ry="13" fill="#111"/>
+  <!-- Neck -->
+  <rect x="143" y="135" width="14" height="15" rx="4" fill="#2A1810"/>
+  <!-- Torso -->
+  <rect x="130" y="148" width="40" height="68" rx="6" fill="#2A1810"/>
+  <!-- Shorts -->
+  <rect x="128" y="213" width="44" height="42" rx="6" fill="#C9B37E"/>
+  <!-- Left thigh -->
+  <rect x="128" y="252" width="20" height="66" rx="5" fill="#2A1810"/>
+  <!-- Right thigh -->
+  <rect x="152" y="252" width="20" height="66" rx="5" fill="#2A1810"/>
+  <!-- Left calf -->
+  <rect x="129" y="316" width="17" height="32" rx="5" fill="#2A1810"/>
+  <!-- Right calf -->
+  <rect x="153" y="316" width="17" height="32" rx="5" fill="#2A1810"/>
+
+  <!-- Arms reaching straight overhead -->
+  <!-- Left arm -->
+  <rect x="112" y="38" width="20" height="120" rx="8" fill="#2A1810"/>
+  <!-- Right arm -->
+  <rect x="168" y="38" width="20" height="120" rx="8" fill="#2A1810"/>
+  <!-- Hands -->
+  <circle cx="122" cy="36" r="11" fill="#2A1810"/>
+  <circle cx="178" cy="36" r="11" fill="#2A1810"/>
+
+  <!-- Barbell overhead -->
+  <line x1="50" y1="26" x2="250" y2="26" stroke="#555" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="58" cy="26" r="16" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="58" cy="26" r="8" fill="#666"/>
+  <circle cx="242" cy="26" r="16" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="242" cy="26" r="8" fill="#666"/>
+
+  <!-- Dotted motion guide arrows -->
+  <path d="M 112 160 L 108 130 L 104 100" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="4 3" fill="none" opacity="0.7"/>
+
+  <text x="150" y="378" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8B7355" letter-spacing="1">STEP 3 — PRESS OVERHEAD</text>
+</svg>

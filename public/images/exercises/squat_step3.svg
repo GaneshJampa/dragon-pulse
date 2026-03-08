@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FBF3E2"/>
+  <line x1="0" y1="348" x2="300" y2="348" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- Figure: full squat, thighs parallel -->
+  <!-- Head lower -->
+  <circle cx="150" cy="148" r="20" fill="#2A1810"/>
+  <ellipse cx="150" cy="133" rx="20" ry="13" fill="#111"/>
+  <!-- Neck -->
+  <rect x="143" y="165" width="14" height="14" rx="4" fill="#2A1810"/>
+  <!-- Torso leaning slightly forward -->
+  <path d="M 133 178 L 167 178 L 170 234 L 130 234 Z" fill="#2A1810"/>
+  <!-- Shorts -->
+  <path d="M 130 230 L 170 230 L 172 262 L 128 262 Z" fill="#C9B37E"/>
+  <!-- Left thigh — horizontal/angled outward -->
+  <path d="M 128 255 L 94 280 L 103 295 L 140 268 Z" fill="#2A1810"/>
+  <!-- Right thigh -->
+  <path d="M 160 255 L 196 280 L 205 265 L 170 240 Z" fill="#2A1810"/>
+  <!-- Left calf folded back -->
+  <path d="M 94 280 L 100 340 L 118 340 L 103 295 Z" fill="#2A1810"/>
+  <!-- Right calf -->
+  <path d="M 197 278 L 200 340 L 215 340 L 208 265 Z" fill="#2A1810"/>
+
+  <!-- Arms holding bar on back -->
+  <path d="M 133 182 L 82 179" stroke="#2A1810" stroke-width="16" stroke-linecap="round"/>
+  <path d="M 167 182 L 218 179" stroke="#2A1810" stroke-width="16" stroke-linecap="round"/>
+
+  <!-- Barbell -->
+  <line x1="50" y1="178" x2="250" y2="178" stroke="#555" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="57" cy="178" r="13" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="57" cy="178" r="7" fill="#666"/>
+  <circle cx="243" cy="178" r="13" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="243" cy="178" r="7" fill="#666"/>
+
+  <text x="150" y="378" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8B7355" letter-spacing="1">STEP 3 — FULL DEPTH</text>
+</svg>

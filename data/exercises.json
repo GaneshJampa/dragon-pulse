@@ -1,0 +1,226 @@
+[
+  {
+    "exercise_id": "squat",
+    "name": "Squat",
+    "category": "legs",
+    "equipment": "barbell",
+    "sets": 3,
+    "reps": "10",
+    "recommended_weight": "heavy",
+    "rest_seconds": 90,
+    "description": "Barbell squat to build leg and hip strength.",
+    "steps": [
+      "Place barbell across upper back.",
+      "Lower hips until thighs are parallel to the floor.",
+      "Drive through heels to stand back up."
+    ]
+  },
+  {
+    "exercise_id": "french_press_1",
+    "name": "French Press",
+    "category": "arms",
+    "equipment": "barbell",
+    "sets": 4,
+    "reps": "6",
+    "recommended_weight": "moderate",
+    "rest_seconds": 60,
+    "description": "Overhead triceps extension to isolate the triceps.",
+    "steps": [
+      "Hold barbell overhead with both hands.",
+      "Lower weight behind your head by bending elbows.",
+      "Extend arms to raise weight back up."
+    ]
+  },
+  {
+    "exercise_id": "incline_curl",
+    "name": "Incline Curl",
+    "category": "arms",
+    "equipment": "dumbbell",
+    "sets": 4,
+    "reps": "6",
+    "recommended_weight": "light",
+    "rest_seconds": 60,
+    "description": "Dumbbell curl performed on an incline bench.",
+    "steps": [
+      "Sit on an incline bench holding dumbbells.",
+      "Curl the weights upward while keeping elbows still.",
+      "Lower slowly to the starting position."
+    ]
+  },
+  {
+    "exercise_id": "french_press_2",
+    "name": "French Press (Variation)",
+    "category": "arms",
+    "equipment": "barbell",
+    "sets": 4,
+    "reps": "6",
+    "recommended_weight": "moderate",
+    "rest_seconds": 60,
+    "description": "Another set of triceps-focused French press.",
+    "steps": [
+      "Hold barbell overhead.",
+      "Lower behind head with controlled motion.",
+      "Extend elbows to return to starting position."
+    ]
+  },
+  {
+    "exercise_id": "concentration_curl",
+    "name": "Concentration Curl",
+    "category": "arms",
+    "equipment": "dumbbell",
+    "sets": 4,
+    "reps": "6",
+    "recommended_weight": "light",
+    "rest_seconds": 45,
+    "description": "Isolation curl focusing on the biceps peak.",
+    "steps": [
+      "Sit and brace elbow against inner thigh.",
+      "Curl dumbbell toward shoulder.",
+      "Lower slowly under control."
+    ]
+  },
+  {
+    "exercise_id": "push_up",
+    "name": "Push Up",
+    "category": "chest",
+    "equipment": "bodyweight",
+    "sets": 3,
+    "reps": "10",
+    "recommended_weight": "bodyweight",
+    "rest_seconds": 60,
+    "description": "Bodyweight pushing movement targeting chest and triceps.",
+    "steps": [
+      "Place hands on the floor slightly wider than shoulders.",
+      "Lower chest toward the floor.",
+      "Push back up to full arm extension."
+    ]
+  },
+  {
+    "exercise_id": "two_hand_curl",
+    "name": "Two Hand Curl",
+    "category": "arms",
+    "equipment": "barbell",
+    "sets": 3,
+    "reps": "8",
+    "recommended_weight": "moderate",
+    "rest_seconds": 60,
+    "description": "Barbell curl using both hands simultaneously.",
+    "steps": [
+      "Grip barbell with both hands.",
+      "Curl bar toward shoulders.",
+      "Lower slowly."
+    ]
+  },
+  {
+    "exercise_id": "triceps_stretch",
+    "name": "Triceps Stretch",
+    "category": "arms",
+    "equipment": "dumbbell",
+    "sets": 3,
+    "reps": "8-10",
+    "recommended_weight": "light",
+    "rest_seconds": 45,
+    "description": "Triceps-focused extension movement.",
+    "steps": [
+      "Hold dumbbell overhead.",
+      "Lower weight behind head.",
+      "Extend arms to return."
+    ]
+  },
+  {
+    "exercise_id": "dumbbell_circle",
+    "name": "Dumbbell Circle",
+    "category": "shoulders",
+    "equipment": "dumbbell",
+    "sets": 4,
+    "reps": "to_failure",
+    "recommended_weight": "light",
+    "rest_seconds": 45,
+    "description": "Shoulder mobility and endurance movement using circular arm motion.",
+    "steps": [
+      "Hold light dumbbells at your sides.",
+      "Raise arms and perform circular motions.",
+      "Continue until fatigue."
+    ]
+  },
+  {
+    "exercise_id": "reverse_curl",
+    "name": "Reverse Curl",
+    "category": "arms",
+    "equipment": "barbell",
+    "sets": 4,
+    "reps": "6",
+    "recommended_weight": "moderate",
+    "rest_seconds": 45,
+    "description": "Curl with palms facing downward to target forearms.",
+    "steps": [
+      "Grip barbell with palms facing down.",
+      "Curl bar upward toward shoulders.",
+      "Lower slowly."
+    ]
+  },
+  {
+    "exercise_id": "wrist_curl_1",
+    "name": "Wrist Curl",
+    "category": "forearms",
+    "equipment": "barbell",
+    "sets": 4,
+    "reps": "to_failure",
+    "recommended_weight": "light",
+    "rest_seconds": 30,
+    "description": "Exercise for strengthening forearm flexors.",
+    "steps": [
+      "Sit holding barbell with wrists resting on knees.",
+      "Curl wrists upward.",
+      "Lower slowly."
+    ]
+  },
+  {
+    "exercise_id": "wrist_curl_2",
+    "name": "Wrist Curl (Variation)",
+    "category": "forearms",
+    "equipment": "barbell",
+    "sets": 2,
+    "reps": "to_failure",
+    "recommended_weight": "light",
+    "rest_seconds": 30,
+    "description": "Additional wrist curl variation for forearms.",
+    "steps": [
+      "Hold barbell with forearms supported.",
+      "Curl wrists upward.",
+      "Lower under control."
+    ]
+  },
+  {
+    "exercise_id": "sit_up",
+    "name": "Sit Up",
+    "category": "core",
+    "equipment": "bodyweight",
+    "sets": 5,
+    "reps": "12",
+    "recommended_weight": "bodyweight",
+    "rest_seconds": 45,
+    "description": "Classic abdominal strengthening movement.",
+    "steps": [
+      "Lie on your back with knees bent.",
+      "Lift torso toward knees.",
+      "Lower back slowly."
+    ]
+  },
+  {
+    "exercise_id": "calf_raise",
+    "name": "Calf Raise",
+    "category": "legs",
+    "equipment": "bodyweight",
+    "sets": 5,
+    "reps": "20",
+    "recommended_weight": "bodyweight",
+    "rest_seconds": 45,
+    "description": "Standing movement to strengthen calf muscles.",
+    "steps": [
+      "Stand upright with feet hip-width apart.",
+      "Raise heels off the ground.",
+      "Lower slowly."
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 550" width="400" height="550">
+  <!-- Aged paper background -->
+  <rect width="400" height="550" fill="#F0E4C8"/>
+  <!-- Paper grain -->
+  <rect width="400" height="550" fill="none" stroke="#D4B896" stroke-width="1" rx="4"/>
+
+  <!-- Torn edge effect top -->
+  <path d="M 0 8 Q 20 2 40 9 Q 60 3 80 8 Q 100 2 120 7 Q 140 3 160 9 Q 180 4 200 8 Q 220 3 240 9 Q 260 4 280 8 Q 300 2 320 7 Q 340 3 360 9 Q 380 4 400 7 L 400 0 L 0 0 Z" fill="#E8D5B0" opacity="0.6"/>
+
+  <!-- Horizontal rule lines (like a notepad) -->
+  <line x1="30" y1="100" x2="370" y2="100" stroke="#C9B37E" stroke-width="0.5" opacity="0.5"/>
+  <line x1="30" y1="120" x2="370" y2="120" stroke="#C9B37E" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Title area -->
+  <rect x="20" y="18" width="360" height="72" rx="3" fill="#E8D5B0" opacity="0.5"/>
+  <text x="200" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#5C3D1A" letter-spacing="3" font-style="italic">PHYSICAL TRAINING PROGRAM</text>
+  <text x="200" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#2A1810" font-weight="bold" letter-spacing="1">Bruce Lee</text>
+  <text x="200" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#8B7355" letter-spacing="2">Weight Training Schedule — Personal Record</text>
+
+  <!-- Divider -->
+  <line x1="30" y1="94" x2="370" y2="94" stroke="#8B7355" stroke-width="1"/>
+  <line x1="30" y1="97" x2="370" y2="97" stroke="#8B7355" stroke-width="0.3"/>
+
+  <!-- Column headers -->
+  <rect x="20" y="103" width="360" height="22" fill="#D4B896" opacity="0.4"/>
+  <text x="35" y="118" font-family="Georgia, serif" font-size="9" fill="#5C3D1A" font-weight="bold" letter-spacing="1">EXERCISE</text>
+  <text x="222" y="118" font-family="Georgia, serif" font-size="9" fill="#5C3D1A" font-weight="bold" letter-spacing="1">SETS</text>
+  <text x="268" y="118" font-family="Georgia, serif" font-size="9" fill="#5C3D1A" font-weight="bold" letter-spacing="1">REPS</text>
+  <text x="310" y="118" font-family="Georgia, serif" font-size="9" fill="#5C3D1A" font-weight="bold" letter-spacing="1">WEIGHT</text>
+  <line x1="30" y1="126" x2="370" y2="126" stroke="#8B7355" stroke-width="0.5"/>
+
+  <!-- Exercise rows -->
+  <!-- Row 1 -->
+  <text x="35" y="143" font-family="Georgia, serif" font-size="10" fill="#2A1810">1. Clean &amp; Press</text>
+  <text x="232" y="143" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="143" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="143" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">moderate</text>
+  <line x1="30" y1="150" x2="370" y2="150" stroke="#C9B37E" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- Row 2 -->
+  <text x="35" y="167" font-family="Georgia, serif" font-size="10" fill="#2A1810">2. Squat</text>
+  <text x="232" y="167" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="167" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="167" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">moderate</text>
+  <line x1="30" y1="174" x2="370" y2="174" stroke="#C9B37E" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- Row 3 -->
+  <text x="35" y="191" font-family="Georgia, serif" font-size="10" fill="#2A1810">3. Pullover</text>
+  <text x="232" y="191" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="191" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="191" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">light</text>
+  <line x1="30" y1="198" x2="370" y2="198" stroke="#C9B37E" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- Row 4 -->
+  <text x="35" y="215" font-family="Georgia, serif" font-size="10" fill="#2A1810">4. Bench Press</text>
+  <text x="232" y="215" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="215" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="215" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">moderate</text>
+  <line x1="30" y1="222" x2="370" y2="222" stroke="#C9B37E" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- Row 5 -->
+  <text x="35" y="239" font-family="Georgia, serif" font-size="10" fill="#2A1810">5. Good Morning</text>
+  <text x="232" y="239" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="239" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="239" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">light</text>
+  <line x1="30" y1="246" x2="370" y2="246" stroke="#C9B37E" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- Row 6 -->
+  <text x="35" y="263" font-family="Georgia, serif" font-size="10" fill="#2A1810">6. Barbell Curl</text>
+  <text x="232" y="263" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="263" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="263" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">moderate</text>
+  <line x1="30" y1="270" x2="370" y2="270" stroke="#C9B37E" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- Row 7 -->
+  <text x="35" y="287" font-family="Georgia, serif" font-size="10" fill="#2A1810">7. Wrist Curl</text>
+  <text x="232" y="287" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="287" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="287" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">light</text>
+  <line x1="30" y1="294" x2="370" y2="294" stroke="#C9B37E" stroke-width="0.4" opacity="0.6"/>
+
+  <!-- Row 8 -->
+  <text x="35" y="311" font-family="Georgia, serif" font-size="10" fill="#2A1810">8. Reverse Curl</text>
+  <text x="232" y="311" font-family="Georgia, serif" font-size="10" fill="#2A1810">2</text>
+  <text x="272" y="311" font-family="Georgia, serif" font-size="10" fill="#2A1810">8</text>
+  <text x="312" y="311" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">light</text>
+  <line x1="30" y1="318" x2="370" y2="318" stroke="#8B7355" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- Notes section -->
+  <text x="35" y="340" font-family="Georgia, serif" font-size="10" fill="#5C3D1A" font-style="italic">Notes:</text>
+  <line x1="35" y1="355" x2="365" y2="355" stroke="#8B7355" stroke-width="0.5"/>
+  <text x="40" y="352" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">Rest 45 seconds between sets. Focus on full range of motion.</text>
+  <line x1="35" y1="370" x2="365" y2="370" stroke="#8B7355" stroke-width="0.5"/>
+  <text x="40" y="367" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic">Train 3 days per week. Increase weight progressively.</text>
+  <line x1="35" y1="385" x2="365" y2="385" stroke="#8B7355" stroke-width="0.5"/>
+
+  <!-- Philosophy note -->
+  <rect x="30" y="400" width="340" height="60" rx="3" fill="#E8D5B0" opacity="0.4" stroke="#C9B37E" stroke-width="0.5"/>
+  <text x="200" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#8B7355" font-style="italic" letter-spacing="1">— PHILOSOPHY —</text>
+  <text x="200" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5C3D1A" font-style="italic">"Using no way as way, having no limitation</text>
+  <text x="200" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5C3D1A" font-style="italic">as limitation." — Bruce Lee</text>
+
+  <!-- Signature area -->
+  <text x="35" y="490" font-family="Georgia, serif" font-size="9" fill="#8B7355">Signed: </text>
+  <path d="M 80 488 Q 100 478 120 486 Q 140 481 160 488" stroke="#5C3D1A" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <line x1="75" y1="492" x2="200" y2="492" stroke="#8B7355" stroke-width="0.4"/>
+
+  <text x="200" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#8B7355" opacity="0.5" font-style="italic">Dragon Pulse — Historical Training Reference</text>
+</svg>

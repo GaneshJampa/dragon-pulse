@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FBF3E2"/>
+  <line x1="0" y1="348" x2="300" y2="348" stroke="#C9B37E" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.6"/>
+
+  <!-- Standing figure, arms straight down, underhand grip -->
+  <!-- Head -->
+  <circle cx="150" cy="72" r="20" fill="#2A1810"/>
+  <ellipse cx="150" cy="57" rx="20" ry="13" fill="#111"/>
+  <!-- Neck -->
+  <rect x="143" y="90" width="14" height="16" rx="4" fill="#2A1810"/>
+  <!-- Torso -->
+  <rect x="130" y="104" width="40" height="74" rx="6" fill="#2A1810"/>
+  <!-- Shorts -->
+  <rect x="128" y="175" width="44" height="42" rx="6" fill="#C9B37E"/>
+  <!-- Thighs -->
+  <rect x="128" y="214" width="20" height="88" rx="5" fill="#2A1810"/>
+  <rect x="152" y="214" width="20" height="88" rx="5" fill="#2A1810"/>
+  <!-- Calves -->
+  <rect x="129" y="300" width="17" height="48" rx="5" fill="#2A1810"/>
+  <rect x="153" y="300" width="17" height="48" rx="5" fill="#2A1810"/>
+
+  <!-- Arms straight down at sides -->
+  <rect x="108" y="104" width="22" height="108" rx="7" fill="#2A1810"/>
+  <rect x="170" y="104" width="22" height="108" rx="7" fill="#2A1810"/>
+  <!-- Hands (underhand grip shown by slight rotation) -->
+  <ellipse cx="119" cy="217" rx="12" ry="9" fill="#2A1810"/>
+  <ellipse cx="181" cy="217" rx="12" ry="9" fill="#2A1810"/>
+
+  <!-- Barbell at hips' level -->
+  <line x1="62" y1="220" x2="238" y2="220" stroke="#555" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="69" cy="220" r="14" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="69" cy="220" r="7" fill="#666"/>
+  <circle cx="231" cy="220" r="14" fill="#444" stroke="#333" stroke-width="1.5"/>
+  <circle cx="231" cy="220" r="7" fill="#666"/>
+
+  <text x="150" y="378" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8B7355" letter-spacing="1">STEP 1 — ARMS EXTENDED</text>
+</svg>
